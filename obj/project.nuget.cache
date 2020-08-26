@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SH4+yu9WlweJnzBb51gg5Rj9C9/D9Cb75dPL4tgIWzt948PFDVaQEXp4kytJQs8JeDIbFmd0yfQxpVk/RItF9w==",
+  "dgSpecHash": "rQK8uDMeCwlGTA+Wfs/sB5MqYabv136ibF30JgNDjgMO3iL0On+VAM9Ssyoj7COHFUEZ8W6MT23ZFWZvAiYdqQ==",
   "success": true,
   "projectFilePath": "/Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/DatingApp.API.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,9 @@
     "/Users/charlenegipulan/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.4/microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/microsoft.extensions.options/3.1.4/microsoft.extensions.options.3.1.4.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/microsoft.extensions.primitives/3.1.4/microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -35,7 +38,9 @@
     "/Users/charlenegipulan/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/charlenegipulan/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/charlenegipulan/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
