@@ -67,3 +67,6 @@
 /Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Data/UserSeedData.json
+/Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/charlenegipulan/Desktop/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
